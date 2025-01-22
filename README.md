@@ -5,3 +5,14 @@ For more detailed information about the project's functionality and the tasks I 
 
 ## Stack
 Spring Boot, Quarkus, JPA, Hibernate, Liquibase, Redis, RestAssured
+
+## Set up local
+
+- Build database Mysql and cache Redis
+```
+docker-compose up -d
+```
+- Run Application
+```
+mvn package
+```
