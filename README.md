@@ -4,9 +4,9 @@ This project was developed as part of the university module "Verteilte Anwendung
 For more detailed information about the project's functionality and the tasks I completed, please refer to the `README.md` file located in the `src` directory.
 
 ## Stack
-Spring Boot, Quarkus, JPA, Hibernate, Liquibase, Redis, RestAssured
+Spring Boot, Quarkus, JPA, Hibernate, Liquibase, Redis, RestAssured, MySQL
 
-## Set up local
+## Set up locally
 
 - Build database Mysql and cache Redis
 ```
